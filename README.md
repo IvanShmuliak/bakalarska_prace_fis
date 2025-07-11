@@ -1,4 +1,4 @@
-# Analýza trhu s ojetými vozy BMW
+# Dobývání znalostí z databází na datech z trhu ojetých a skladových automobilů značky BMW
 
 Tento repozitář obsahuje kompletní projekt bakalářské práce zaměřené na analýzu trhu s ojetými a skladovými vozy značky BMW v ČR pomocí metod datového dolování a strojového učení.
 
